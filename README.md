@@ -29,5 +29,5 @@ Since I wanted to write a report, I decided to use the slides feature of Jupyter
 To run the notebook, use the following command:
 
 ```sh
-jupyter-notebook hatnote_websocket/Presentation.slides.html
+jupyter-notebook hatnote_websocket/Presentation.ipynb
 ```
